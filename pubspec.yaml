@@ -1,0 +1,32 @@
+name: ar_ludo_game
+description: "AR Offline Multiplayer Ludo Game"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.2
+  shared_preferences: ^2.2.3
+  screenshot: ^3.0.0
+  path_provider: ^2.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_native_splash: ^2.4.3
+
+flutter:
+  uses-material-design: true
+
+flutter_native_splash:
+  color: "#0f0c29"
+  android_12:
+    color: "#0f0c29"
+  ios: true
+  android: true
