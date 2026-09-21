@@ -19,6 +19,15 @@ An offline multiplayer Ludo board game built with Flutter. Play with 2–4 playe
 - **Privacy Policy & Settings** — In-app settings with sound toggle and privacy policy
 - **Share Results** — Copy game results to clipboard
 
+## 📸 Screenshots
+<p align="center">
+  <img src="screenshots/ss1.jpeg" width="220"/>
+  <img src="screenshots/ss2.jpeg" width="220"/>
+</br>
+  <img src="screenshots/ss3.jpeg" width="220"/>
+  <img src="screenshots/ss4.jpeg" width="220"/>
+</p>
+
 ## Getting Started
 
 ### Prerequisites
